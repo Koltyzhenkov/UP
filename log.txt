@@ -1,0 +1,6 @@
+C:\Users\fpm.koltyzhe\Documents\UP>git log
+commit d046a85fab07fa27618895cd5eeedcf0b9b222c0 (HEAD -> master)
+Author: Koltyzhenkov <namana888@gmail.com>
+Date:   Tue Feb 12 10:06:40 2019 +0300
+
+    Add.gitignore
